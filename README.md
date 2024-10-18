@@ -81,10 +81,12 @@ plt.show()
 ### OUTPUT:
 
 Moving Average
+
 <img width="688" alt="image" src="https://github.com/user-attachments/assets/20ba6592-5894-4ba4-84e4-1bf2260d6b5b">
 
 
 Plot Transform Dataset
+
 <img width="688" alt="image" src="https://github.com/user-attachments/assets/650fa202-95f3-4f16-a123-cacdbc4e4fb3">
 
 Exponential Smoothing
